@@ -1,0 +1,95 @@
+
+    <section className="section" id="portfolio">
+        <div className="container">
+            <h6 className="xs-font mb-0">Culpa perferendis excepturi.</h6>
+            <h3 className="section-title pb-4">Our Products</h3>
+        </div>
+
+        <div id="owl-portfolio" className="owl-carousel owl-theme mt-4">
+            <a href="javascript:void(0)" className="item expertises-item">
+                <img src="assets/imgs/img-1.jpg"alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page" className="box-shadow">
+                <h6 className="mt-3 mb-2">Fuga asperiores</h6>
+                <p className="xs-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </a> 
+            <a href="javascript:void(0)" className="item expertises-item">
+                <img src="assets/imgs/img-2.jpg"alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page" className="box-shadow">
+                <h6 className="mt-3 mb-2">Voluptatibus iure!</h6>
+                <p className="xs-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </a> 
+            <a href="javascript:void(0)" className="item expertises-item">
+                <img src="assets/imgs/img-3.jpg"alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page" className="box-shadow">
+                <h6 className="mt-3 mb-2">Autem minus animi</h6>
+                <p className="xs-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </a> 
+            <a href="javascript:void(0)" className="item expertises-item">
+                <img src="assets/imgs/img-4.jpg"alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page" className="box-shadow">
+                <h6 className="mt-3 mb-2">Sed eligendi</h6>
+                <p className="xs-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </a> 
+            <a href="javascript:void(0)" className="item expertises-item">
+                <img src="assets/imgs/img-8.jpg"alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page" className="box-shadow">
+                <h6 className="mt-3 mb-2">Totam eveniet assumenda!</h6>
+                <p className="xs-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </a> 
+            <a href="javascript:void(0)" className="item expertises-item">
+                <img src="assets/imgs/img-9.jpg"alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page" className="box-shadow">
+                <h6 className="mt-3 mb-2">Sapiente dolore ut</h6>
+                <p className="xs-font">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </a>             
+        </div>
+    </section>
+
+
+    <section className="section" id="testmonial">
+        <div className="container">
+            <h6 className="xs-font mb-0">Culpa perferendis excepturi.</h6>
+            <h3 className="section-title">Testmonials</h3>
+
+            <div id="owl-testmonial" className="owl-carousel owl-theme mt-4">
+                <div className="item">
+                    <div className="textmonial-item">
+                        <img src="assets/imgs/avatar1.jpg" className="avatar" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page">
+                        <div className="des">
+                            <h5 className="ti-quote-left font-weight-bold"></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ea facere voluptatum corrupti doloremque odit sequi labore rerum maiores libero.adipisicing elit. Vitae quasi voluptatem sed quaerat dolorum architecto reiciendis magni laboriosam, illum, nobis, quae dolor, ducimus libero! Sapiente deleniti sit dolor, ex possimus.</p>
+                            <h5 className="ti-quote-left text-right font-weight-bold"></h5>
+
+                            <div className="line"></div>
+                            <h6 className="name">Emma Re</h6>
+                            <h6 className="xs-font">Full stack developer</h6>
+                        </div>
+                    </div>
+                </div>
+                <div className="item">
+                    <div className="textmonial-item">
+                        <img src="assets/imgs/avatar2.jpg" className="avatar" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page">
+                        <div className="des">
+                            <h5 className="ti-quote-left font-weight-bold"></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ea facere voluptatum corrupti doloremque odit sequi labore rerum maiores libero.adipisicing elit. Vitae quasi voluptatem sed quaerat dolorum architecto reiciendis magni laboriosam, illum, nobis, quae dolor, ducimus libero! Sapiente deleniti sit dolor, ex possimus.</p>
+                            <h5 className="ti-quote-left text-right font-weight-bold"></h5>
+
+                            <div className="line"></div>
+                            <h6 className="name">John Doe</h6>
+                            <h6 className="xs-font">Graphic Designer</h6>
+                        </div>
+                    </div>
+                </div>
+                <div className="item">
+                    <div className="textmonial-item">
+                        <img src="assets/imgs/avatar3.jpg" className="avatar" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, ollie Landing page">
+                        <div className="des">
+                            <h5 className="ti-quote-left font-weight-bold"></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ea facere voluptatum corrupti doloremque odit sequi labore rerum maiores libero.adipisicing elit. Vitae quasi voluptatem sed quaerat dolorum architecto reiciendis magni laboriosam, illum, nobis, quae dolor, ducimus libero! Sapiente deleniti sit dolor, ex possimus.</p>
+                            <h5 className="ti-quote-left text-right font-weight-bold"></h5>
+
+                            <div className="line"></div>
+                            <h6 className="name">Emily Roe</h6>
+                            <h6 className="xs-font">Freelancer</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
